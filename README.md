@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 😏, I'm Lyn.47 A.k.a Vhn</h1>
 <h3 align="center">A fronted Dev Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif") 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/86/f5/af/86f5af98802bf296333361816ff3c214.gif") 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivhan9867&label=Profile%20views&color=0e75b6&style=flat" alt="ivhan9867" /> </p>
 
 - 🌱 I’m currently learning **Elixir and ruby**
